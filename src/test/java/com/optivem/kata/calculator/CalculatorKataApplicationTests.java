@@ -8,6 +8,8 @@ class CalculatorKataApplicationTests {
 
 	@Test
 	void contextLoads() {
+		var args = new String[]{};
+		CalculatorKataApplication.main(args);
 	}
 
 }
