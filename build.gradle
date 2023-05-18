@@ -11,11 +11,7 @@ pitest {
 }
 
 jacoco {
-	toolVersion = "0.8.7"
-}
-
-test {
-	finalizedBy jacocoTestReport
+	toolVersion = "0.8.10"
 }
 
 jacocoTestReport {
